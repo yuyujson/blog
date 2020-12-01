@@ -36,5 +36,8 @@
     "mdNameFormat": "title",
     "postPath": "source/_posts/yuque",
     "onlyPublished": false
+  },
+  "devDependencies": {
+    "yuque-hexo": "^1.6.5"
   }
 }
