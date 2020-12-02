@@ -35,7 +35,8 @@
     "repo": "blog",
     "mdNameFormat": "title",
     "postPath": "source/_posts/yuque",
-    "onlyPublished": false
+    "onlyPublished": false,
+    "token": "30EaTh09H1PCoTs5NwxEK45kTfjeEJMdbHzhZkvB"
   },
   "devDependencies": {
     "yuque-hexo": "^1.6.5"
