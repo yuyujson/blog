@@ -1,6 +1,6 @@
 ---
 title: jdk1.7-HashMap
-permalink: jdk1-7-hash-map
+urlname: jdk1-7-hash-map
 date: 2020-02-19 21:12:19
 tags: jdk
 categories: jdk

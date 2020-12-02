@@ -1,6 +1,6 @@
 ---
 title: MySQL中的函数
-permalink: MySQL-han-shu
+urlname: MySQL-han-shu
 date: 2019-05-14 12:06:09
 tags:
 categories: mysql

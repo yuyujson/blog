@@ -1,6 +1,6 @@
 ---
 title: springboot配置Druid监控
-permalink: springboot-pei-zhi-druid-jian-kong
+urlname: springboot-pei-zhi-druid-jian-kong
 date: 2019-07-24 22:20:49
 tags:
 categories: spring

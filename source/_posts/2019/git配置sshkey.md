@@ -1,6 +1,6 @@
 ---
 title: git配置sshkey
-permalink: git-pei-zhi-sshkey
+urlname: git-pei-zhi-sshkey
 date: 2019-11-12 14:16:33
 tags: ssh密钥
 categories: util

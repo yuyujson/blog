@@ -1,6 +1,6 @@
 ---
 title: CentOS-卸载
-permalink: CentOS-uninstall
+urlname: CentOS-uninstall
 date: 2019-01-02 12:03:10
 tags: linux安装
 categories: linux

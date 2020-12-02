@@ -1,6 +1,6 @@
 ---
 title: InnoDB和MyISAM区别
-permalink: InnoDB-he-MyISAM-qv-bie
+urlname: InnoDB-he-MyISAM-qv-bie
 date: 2019-05-14 12:06:44
 tags: innodb
 categories: mysql

@@ -17,6 +17,8 @@ categories: []
 1. 将骨架上传至私服
 1. 依据私服中骨架搭建项目
 
+<!--more-->
+
 ![](https://cdn.nlark.com/yuque/0/2020/png/178066/1606740813481-127759cc-df1e-40be-bdd4-43f4e7c2c3d1.png#align=left&display=inline&height=323&margin=%5Bobject%20Object%5D&originHeight=323&originWidth=792&size=0&status=done&style=none&width=792)
 
 # 准备工作

@@ -1,6 +1,6 @@
 ---
 title: 线程池1:FutureTask
-permalink: future-task
+urlname: future-task
 date: 2020-02-27 13:34:02
 tags:
 categories: thread-pool

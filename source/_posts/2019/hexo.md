@@ -1,6 +1,6 @@
 ---
 title: hexo
-permalink: hexo
+urlname: hexo
 date: 2019-11-12 14:16:33
 tags: hexo
 categories: util

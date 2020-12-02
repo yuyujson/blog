@@ -1,6 +1,6 @@
 ---
 title: 并发3:volatile
-permalink: volatile
+urlname: volatile
 date: 2019-12-22 11:45:44
 tags: 
 categories: concurrent

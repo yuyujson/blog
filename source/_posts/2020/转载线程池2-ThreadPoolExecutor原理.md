@@ -1,6 +1,6 @@
 ---
 title: 线程池2:ThreadPoolExecutor原理
-permalink: thread-pool-executor-yuan-li
+urlname: thread-pool-executor-yuan-li
 date: 2020-02-27 13:49:54
 tags:
 categories: thread-pool

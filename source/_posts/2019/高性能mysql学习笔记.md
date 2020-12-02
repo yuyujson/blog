@@ -1,6 +1,6 @@
 ---
 title: 高性能mysql学习笔记
-permalink: gao-xing-neng-mysql-node
+urlname: gao-xing-neng-mysql-node
 date: 2019-04-01 12:05:40
 tags: 读书笔记
 categories: mysql

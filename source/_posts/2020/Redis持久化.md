@@ -1,6 +1,6 @@
 ---
 title: Redis持久化
-permalink: redis-chi-jiu-hua
+urlname: redis-chi-jiu-hua
 date: 2020-02-13 20:29:32
 tags:
 categories: redis

@@ -1,6 +1,6 @@
 ---
 title: zookeeper
-permalink: zookeeper
+urlname: zookeeper
 date: 2020-05-25 11:49:58
 tags:
 categories:

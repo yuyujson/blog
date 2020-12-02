@@ -1,6 +1,6 @@
 ---
 title: mysql索引最左原则
-permalink: mysql-index-left
+urlname: mysql-index-left
 date: 2019-06-14 17:06:28
 tags: innodb
 categories: mysql

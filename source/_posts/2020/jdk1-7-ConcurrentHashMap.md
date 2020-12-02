@@ -1,6 +1,6 @@
 ---
 title: jdk1.7-ConcurrentHashMap
-permalink: jdk1-7-concurrent-hash-map
+urlname: jdk1-7-concurrent-hash-map
 date: 2020-02-24 11:49:00
 tags: jdk
 categories: concurrent

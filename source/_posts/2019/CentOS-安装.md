@@ -1,6 +1,6 @@
 ---
 title: CentOS-安装
-permalink: CentOS-install
+urlname: CentOS-install
 date: 2019-01-02 12:03:10
 tags: linux安装
 categories: linux

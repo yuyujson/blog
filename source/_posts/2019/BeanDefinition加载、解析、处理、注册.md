@@ -1,6 +1,6 @@
 ---
 title: BeanDefinition加载、解析、处理、注册
-permalink: BeanDefinition
+urlname: BeanDefinition
 date: 2019-07-28 23:27:34
 tags: spring源码
 categories: spring

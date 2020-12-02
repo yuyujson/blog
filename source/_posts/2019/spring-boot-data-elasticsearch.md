@@ -1,6 +1,6 @@
 ---
 title: spring-boot-data-elasticsearch
-permalink: spring-boot-data-elasticsearch
+urlname: spring-boot-data-elasticsearch
 date: 2019-10-11 15:27:44
 tags:
 categories: spring

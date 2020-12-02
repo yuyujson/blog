@@ -1,6 +1,6 @@
 ---
 title: b+树图文详解
-permalink: b+-tree-tu-wen-jiang-jie
+urlname: b+-tree-tu-wen-jiang-jie
 date: 2019-06-13 17:09:09
 tags:
 categories: mysql

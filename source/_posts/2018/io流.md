@@ -1,6 +1,6 @@
 ---
 title: io流
-permalink: io-stream
+urlname: io-stream
 date: 2018-03-06
 tags:
 categories: io
