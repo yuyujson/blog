@@ -1,6 +1,6 @@
 ---
 title: shell脚本
-urlname: shell-jiao-ben
+permalink: shell-jiao-ben
 date: 2018-10-05 12:00:30
 tags: shell
 categories: linux

@@ -1,6 +1,6 @@
 ---
 title: 线程池导读2:浅谈JAVA线程返回值工作原理
-urlname: qian-tan-java-thread-pool-return
+permalink: qian-tan-java-thread-pool-return
 date: 2020-02-27 11:00:31
 tags:
 categories: thread-pool

@@ -1,6 +1,6 @@
 ---
 title: Redis缓存三大问题
-urlname: Redis-san-da-wen-ti
+permalink: Redis-san-da-wen-ti
 date: 2020-02-15 21:55:32
 tags:
 categories: redis

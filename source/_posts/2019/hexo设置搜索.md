@@ -1,6 +1,6 @@
 ---
 title: hexo设置搜索
-urlname: hexo-set-select
+permalink: hexo-set-select
 date: 2019-11-16 15:04:32
 tags: hexo
 categories: util

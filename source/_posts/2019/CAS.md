@@ -1,6 +1,6 @@
 ---
 title: 并发5:CAS
-urlname: CAS
+permalink: CAS
 date: 2019-12-29 18:00:25
 tags:
 categories: concurrent

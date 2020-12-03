@@ -1,6 +1,6 @@
 ---
 title: hexo后台运行
-urlname: hexo-hou-tai-yun-xing
+permalink: hexo-hou-tai-yun-xing
 date: 2019-12-03 14:16:17
 tags: hexo
 categories: util

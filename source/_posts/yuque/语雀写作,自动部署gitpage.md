@@ -2,8 +2,9 @@
 title: 语雀写作,自动部署gitpage
 urlname: oft1np
 date: 2020-12-02 17:58:30 +0800
+categories: [hexo]
+permalink: yuque-hexo
 tags: []
-categories: []
 ---
 
 # 前言
@@ -32,3 +33,16 @@ categories: []
 1. 上面那个先看看, 然后看[戴爱玲的博客](http://www.daiailing.cn/2020/02/22/yuque/%E4%B8%89%E3%80%81%E8%AF%AD%E9%9B%80%E5%86%99%E4%BD%9C%EF%BC%8C%E8%87%AA%E5%8A%A8%E9%83%A8%E7%BD%B2%E6%9C%8D%E5%8A%A1%E5%99%A8/) , 这篇写的特别详细
 
 **嗯, 照着上面弄就能弄出来, 就不写了, 反正是前端的东西 QAQ**
+用了两天, 经常会报错, GitHub 地址无法解析, 放弃了, 我删除了语雀调用腾讯云函数的链接, 并把`.travis.yml`文件中的`script:`中参数修改为了`hexo g`, 不再自动同步语雀内容.
+现在的流程是:
+
+1. 语雀写博客
+1. 在本地运行`yuque-hexo sync` 进行同步
+1. 提交代码至 github, `travis-ci`自动部署页面
+
+# 路径问题
+
+`yuque-hexo`同步下来的代码时没有指定路径的也就是 `permalink`, 在页面显示的时候路径是中文标题, 这样在复制连接时得到的就是一串乱码数据, 看起来十分烦人, 不过同步下来的头信息中带了语雀的文档地址`urlname: oft1np`可以作为文章路径使用, 修改步骤如下
+
+1. 修改项目根路径下`_config.yml`, 将` **permalink**``: `内容修改为 `:year/:urlname/`
+1. 全局替换`permalink` 为`urlname`

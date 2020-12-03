@@ -1,6 +1,6 @@
 ---
 title: 并发6:AQS
-urlname: AQS
+permalink: AQS
 date: 2019-12-30 10:45:22
 tags:
 categories: concurrent

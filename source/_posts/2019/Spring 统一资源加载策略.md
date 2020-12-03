@@ -1,6 +1,6 @@
 ---
 title: Spring 统一资源加载策略
-urlname: spring-tong-yi-zi-yuan-jia-zai-ce-lue
+permalink: spring-tong-yi-zi-yuan-jia-zai-ce-lue
 date: 2019-07-24 23:35:18
 tags:
 categories: spring

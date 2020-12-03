@@ -1,6 +1,6 @@
 ---
 title: maven查看依赖
-urlname: maven-cha-kan-yi-lai
+permalink: maven-cha-kan-yi-lai
 date: 2018-05-04
 tags: maven
 categories: util

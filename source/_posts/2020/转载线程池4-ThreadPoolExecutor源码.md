@@ -1,6 +1,6 @@
 ---
 title: 线程池4:ThreadPoolExecutor源码
-urlname: thread-pool-executor-yuan-ma
+permalink: thread-pool-executor-yuan-ma
 date: 2020-02-27 14:15:18
 tags:
 categories: thread-pool

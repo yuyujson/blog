@@ -1,6 +1,6 @@
 ---
 title: ConcurrentHashMap
-urlname: concurrent-hash-map
+permalink: concurrent-hash-map
 date: 2018-10-27 12:01:08
 tags: JDK
 categories: concurrent

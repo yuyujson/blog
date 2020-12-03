@@ -1,6 +1,6 @@
 ---
 title: 自定义redis锁注解
-urlname: zi-ding-yi-redis-lock-zhu-jie
+permalink: zi-ding-yi-redis-lock-zhu-jie
 date: 2019-12-11 21:24:25
 tags: annotation
 categories: [spring, redis]

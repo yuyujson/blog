@@ -1,6 +1,6 @@
 ---
 title: Linux安装Elasticsearch6.4.x
-urlname: Linux-an-zhuang-Elasticsearch6-4
+permalink: Linux-an-zhuang-Elasticsearch6-4
 date: 2019-09-25 14:27:57
 tags: linux安装
 categories: linux

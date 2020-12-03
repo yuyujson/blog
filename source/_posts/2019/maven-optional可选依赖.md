@@ -1,6 +1,6 @@
 ---
 title: maven-optional可选依赖
-urlname: maven-optional-ke-xuan-yi-lai
+permalink: maven-optional-ke-xuan-yi-lai
 date: 2019-12-11 21:38:05
 tags: maven
 categories: util

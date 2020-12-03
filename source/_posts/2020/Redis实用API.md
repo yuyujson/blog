@@ -1,6 +1,6 @@
 ---
 title: Redis实用API
-urlname: redis-shi-yong-api
+permalink: redis-shi-yong-api
 date: 2020-02-16 22:32:47
 tags:
 categories: redis

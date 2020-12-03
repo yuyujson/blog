@@ -1,6 +1,6 @@
 ---
 title: 并发8:Condition介绍及使用
-urlname: condition-jie-shao-use
+permalink: condition-jie-shao-use
 date: 2020-02-03 10:43:56
 tags:
 categories: concurrent

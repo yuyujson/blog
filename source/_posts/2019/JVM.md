@@ -1,6 +1,6 @@
 ---
 title: 并发1:JVM
-urlname: JVM
+permalink: JVM
 date: 2019-08-12 23:43:22
 tags:
 categories: concurrent

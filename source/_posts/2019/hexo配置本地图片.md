@@ -1,6 +1,6 @@
 ---
 title: hexo配置本地图片
-urlname: hexo-pei-zhi-ben-di-tu-pian
+permalink: hexo-pei-zhi-ben-di-tu-pian
 date: 2019-11-13 12:55:03
 tags: hexo
 categories: util

@@ -1,6 +1,6 @@
 ---
 title: 线程池导读1:浅谈JAVA线程池工作原理
-urlname: qian-tan-java-thread-pool
+permalink: qian-tan-java-thread-pool
 date: 2020-02-26 23:06:24
 tags:
 categories: thread-pool

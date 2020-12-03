@@ -1,6 +1,6 @@
 ---
 title: 并发2:Synchronized
-urlname: Synchronized
+permalink: Synchronized
 date: 2019-12-17 11:45:44
 tags: 
 categories: concurrent

@@ -1,6 +1,6 @@
 ---
 title: linux安装node.js
-urlname: linux-an-zhuang-node-js
+permalink: linux-an-zhuang-node-js
 date: 2019-11-23 13:48:25
 tags: 安装
 categories: linux

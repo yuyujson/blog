@@ -1,6 +1,6 @@
 ---
 title: innoDB存储引擎
-urlname: innoDB存储引擎
+permalink: innoDB存储引擎
 date: 2019-05-16 12:07:09
 tags: Swagger2
 categories: spring

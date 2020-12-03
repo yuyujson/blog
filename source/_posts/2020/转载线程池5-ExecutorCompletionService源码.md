@@ -1,6 +1,6 @@
 ---
 title: 线程池5:ExecutorCompletionService源码
-urlname: executor-completion-service-yuanma
+permalink: executor-completion-service-yuanma
 date: 2020-03-01 22:32:08
 tags:
 categories: thread-pool

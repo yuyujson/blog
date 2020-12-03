@@ -1,6 +1,6 @@
 ---
 title: maven
-urlname: maven
+permalink: maven
 date: 2018-03-11
 tags: maven
 categories: util

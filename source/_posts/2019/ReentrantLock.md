@@ -1,6 +1,6 @@
 ---
 title: 并发7:ReentrantLock
-urlname: ReentrantLock
+permalink: ReentrantLock
 date: 2020-02-02 22:00:00
 tags:
 categories: concurrent

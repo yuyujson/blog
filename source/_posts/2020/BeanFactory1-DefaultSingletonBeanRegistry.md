@@ -1,6 +1,6 @@
 ---
 title: BeanFactory1-DefaultSingletonBeanRegistry
-urlname: BeanFactory1-DefaultSingletonBeanRegistry
+permalink: BeanFactory1-DefaultSingletonBeanRegistry
 date: 2020-08-04 20:56:51
 tags: BeanFactory
 categories: spring源码

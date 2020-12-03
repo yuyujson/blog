@@ -1,6 +1,6 @@
 ---
 title: item2免密ssh登录
-urlname: item2-mian-mi-ssh-login
+permalink: item2-mian-mi-ssh-login
 date: 2019-07-11 14:16:33
 tags: item2
 categories: util

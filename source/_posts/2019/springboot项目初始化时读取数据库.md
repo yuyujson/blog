@@ -1,6 +1,6 @@
 ---
 title: springboot项目初始化时读取数据库
-urlname: springboot-init-read-db
+permalink: springboot-init-read-db
 date: 2019-05-16 12:07:42
 tags:
 categories: spring

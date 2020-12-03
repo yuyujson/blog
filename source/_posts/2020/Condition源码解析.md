@@ -1,6 +1,6 @@
 ---
 title: 并发9:Condition源码解析
-urlname: condition-yuan-ma-jie-xi
+permalink: condition-yuan-ma-jie-xi
 date: 2020-02-04 16:35:39
 tags:
 categories: concurrent

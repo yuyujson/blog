@@ -1,6 +1,6 @@
 ---
 title: markdown合并单元格
-urlname: markdown-he-bing-dan-yuan-ge
+permalink: markdown-he-bing-dan-yuan-ge
 date: 2019-12-18 11:38:06
 tags: markdown
 categories: util
