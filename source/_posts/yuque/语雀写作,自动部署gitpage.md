@@ -2,7 +2,7 @@
 title: 语雀写作,自动部署gitpage
 urlname: oft1np
 date: 2020-12-02 17:58:30 +0800
-categories: [hexo]
+categories: [util]
 permalink: yuque-hexo
 tags: []
 ---
@@ -40,9 +40,8 @@ tags: []
 1. 在本地运行`yuque-hexo sync` 进行同步
 1. 提交代码至 github, `travis-ci`自动部署页面
 
-# 路径问题
+# 头信息问题
 
-`yuque-hexo`同步下来的代码时没有指定路径的也就是 `permalink`, 在页面显示的时候路径是中文标题, 这样在复制连接时得到的就是一串乱码数据, 看起来十分烦人, 不过同步下来的头信息中带了语雀的文档地址`urlname: oft1np`可以作为文章路径使用, 修改步骤如下
-
-1. 修改项目根路径下`_config.yml`, 将` **permalink**``: `内容修改为 `:year/:urlname/`
-1. 全局替换`permalink` 为`urlname`
+![image.png](https://cdn.nlark.com/yuque/0/2020/png/178066/1606980180399-5e2f26c2-6686-4488-a31e-70bbc871bd5b.png#align=left&display=inline&height=189&margin=%5Bobject%20Object%5D&name=image.png&originHeight=189&originWidth=842&size=15585&status=done&style=none&width=842)
+当然下面的三个`-`回车后显示变了也是可以的
+![image.png](https://cdn.nlark.com/yuque/0/2020/png/178066/1606980227133-b9192342-900b-4eb2-bd84-57eab81a5a08.png#align=left&display=inline&height=208&margin=%5Bobject%20Object%5D&name=image.png&originHeight=208&originWidth=834&size=16309&status=done&style=none&width=834)
