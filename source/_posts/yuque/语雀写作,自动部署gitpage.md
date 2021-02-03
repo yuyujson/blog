@@ -43,6 +43,7 @@ tags: []
 
 # 头信息问题
 
-![image.png](https://cdn.nlark.com/yuque/0/2020/png/178066/1606980180399-5e2f26c2-6686-4488-a31e-70bbc871bd5b.png#align=left&display=inline&height=189&margin=%5Bobject%20Object%5D&name=image.png&originHeight=189&originWidth=842&size=15585&status=done&style=none&width=842)
+![image-20210203153133098](语雀写作,自动部署gitpage/image-20210203153133098.png)
+
 当然下面的三个`-`回车后显示变了也是可以的
-![image.png](https://cdn.nlark.com/yuque/0/2020/png/178066/1606980227133-b9192342-900b-4eb2-bd84-57eab81a5a08.png#align=left&display=inline&height=208&margin=%5Bobject%20Object%5D&name=image.png&originHeight=208&originWidth=834&size=16309&status=done&style=none&width=834)
+![image-20210203153206462](语雀写作,自动部署gitpage/image-20210203153206462.png)

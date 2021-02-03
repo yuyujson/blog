@@ -21,14 +21,14 @@ tags: []
 
 <!--more-->
 
-![](https://cdn.nlark.com/yuque/0/2020/png/178066/1606740813481-127759cc-df1e-40be-bdd4-43f4e7c2c3d1.png#align=left&display=inline&height=323&margin=%5Bobject%20Object%5D&originHeight=323&originWidth=792&size=0&status=done&style=none&width=792)
+![image-20210203152622210](神器!maven脚手架/image-20210203152622210.png)
 
 # 准备工作
 
 1. maven 的`setting.xml`文件中已配置了私服地址及用户名密码
 1. 准备一个模板项目大致模块如下
 
-![image.png](https://cdn.nlark.com/yuque/0/2020/png/178066/1606740903170-388cbb29-534e-49cf-8568-e3c920e812d5.png#align=left&display=inline&height=280&margin=%5Bobject%20Object%5D&name=image.png&originHeight=280&originWidth=259&size=12512&status=done&style=none&width=259)
+![image-20210203152746193](神器!maven脚手架/image-20210203152746193.png)
 
 # 依据模板项目生成脚手架
 
@@ -72,10 +72,13 @@ tags: []
 ## 自定义配置(可选)
 
 项目中可能存在没有在项目根路径下的文件, 比如 `src/main/resources/bootstrap.yml`文件, 这种文件默认是不做替换的, 我们可以在脚手架项目中找到对应文件, 并将其中对应包名替换为 `${package}` ,groupId 替换为`${groupId}` 其他替换方式可在脚手架已生成内容中查找
-![image.png](https://cdn.nlark.com/yuque/0/2020/png/178066/1606743413136-c16e26b6-9a95-41e6-949d-4710b3262a0a.png#align=left&display=inline&height=418&margin=%5Bobject%20Object%5D&name=image.png&originHeight=418&originWidth=804&size=72280&status=done&style=none&width=804)
+
+![image-20210203152959804](神器!maven脚手架/image-20210203152959804.png)
+
 然后修改脚手架项目路径下 `target/generated-sources/archetype/src/main/resources/META-INF/maven/archetype-metadata.xml` 配置文件
 先找到需要修改的文件所在模块,在模块中找到对应的文件配置, 在 fileSet 中添加`filtered="true"`属性,使在生成代码时替换该文件中代码
-![image.png](https://cdn.nlark.com/yuque/0/2020/png/178066/1606743628543-6ff9d49e-6e76-4a07-9dfe-7da9c6b3c9f2.png#align=left&display=inline&height=648&margin=%5Bobject%20Object%5D&name=image.png&originHeight=648&originWidth=986&size=91865&status=done&style=none&width=986)
+
+![image-20210203153038190](神器!maven脚手架/image-20210203153038190.png)
 
 # 本地测试
 
@@ -104,9 +107,10 @@ mvn archetype:generate -DarchetypeArtifactId=ArtifactId -DarchetypeGroupId=Group
 
 ## idea 方式
 
-![image.png](https://cdn.nlark.com/yuque/0/2020/png/178066/1606744343556-a7724b38-b566-4847-86bc-676eaa071343.png#align=left&display=inline&height=141&margin=%5Bobject%20Object%5D&name=image.png&originHeight=141&originWidth=515&size=115655&status=done&style=none&width=515)
+![image-20210203152843811](神器!maven脚手架/image-20210203152843811.png)
 
-![image.png](https://cdn.nlark.com/yuque/0/2020/png/178066/1606744390734-c2b600dc-cac5-4442-89b2-0408df09f61b.png#align=left&display=inline&height=674&margin=%5Bobject%20Object%5D&name=image.png&originHeight=674&originWidth=1153&size=182952&status=done&style=none&width=1153)
+![image-20210203152919382](神器!maven脚手架/image-20210203152919382.png)
+
 点击下一步后输入需要生成的项目名等信息按照步骤进行即可
 idea 导入 maven 脚手架项目后, 如果想删除则需在本地缓存中进行删除, 文件路径`Library/Caches/JetBrains/InteliJIdea2020.2/Maven/Indices/UserArchetypes.xml`
 

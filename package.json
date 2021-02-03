@@ -28,17 +28,5 @@
     "hexo-renderer-marked": "^2.0.0",
     "hexo-renderer-stylus": "^1.1.0",
     "hexo-server": "^1.0.0"
-  },
-  "yuqueConfig": {
-    "baseUrl": "https://www.yuque.com/api/v2",
-    "login": "yuyu1995",
-    "repo": "blog",
-    "mdNameFormat": "title",
-    "postPath": "source/_posts/yuque",
-    "onlyPublished": false,
-    "token": "30EaTh09H1PCoTs5NwxEK45kTfjeEJMdbHzhZkvB"
-  },
-  "devDependencies": {
-    "yuque-hexo": "^1.6.5"
   }
 }

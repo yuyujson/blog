@@ -16,6 +16,8 @@ tags: []
 - 容器（Container）：类似于一个轻量级的沙盒，可以将其看作一个极简的 Linux 系统环境（包括 root 权限、进程空间、用户空间和网络空间等），以及运行在其中的应用程序。Docker 引擎利用容器来运行、隔离各个应用。容器是镜像创建的应用实例，可以创建、启动、停止、删除容器，各个容器之间是是相互隔离的，互不影响。注意：镜像本身是只读的，容器从镜像启动时，Docker 在镜像的上层创建一个可写层，镜像本身不变。
 - 仓库（Repository）：类似于代码仓库，这里是镜像仓库，是 Docker 用来集中存放镜像文件的地方。注意与注册服务器（Registry）的区别：注册服务器是存放仓库的地方，一般会有多个仓库；而仓库是存放镜像的地方，一般每个仓库存放一类镜像，每个镜像利用 tag 进行区分，比如 Ubuntu 仓库存放有多个版本（12.04、14.04 等）的 Ubuntu 镜像。
 
+<!--more-->
+
 # 配置阿里镜像源
 
 1. 登录容器镜像服务控制台后，在左侧导航栏选择镜像工具 > 镜像加速器，在镜像加速器页面就会显示为您独立分配的加速器地址。
@@ -167,9 +169,11 @@ aallam/tomcat-mysql           Debian, Oracle JDK, Tomcat & MySQL              13
 ```
 
 `docker search tomcat` 命令可以查找到镜像对应的资源, 不过该命令不能显示镜像的详细信息, 我们下载的时候一般会加上`tag` 来确定版本信息, 这时需要到官网进行查询
-![image.png](https://cdn.nlark.com/yuque/0/2020/png/178066/1607959745139-b63f0789-2ae2-461c-a4e1-3dea6514ed93.png#align=left&display=inline&height=985&margin=%5Bobject%20Object%5D&name=image.png&originHeight=985&originWidth=1329&size=161490&status=done&style=none&width=1329)
+
+![image-20210203171407470](docker基础/image-20210203171407470.png)
 查询列表中, 镜像名称规则为`username/镜像名称,`前如果不带有路径, 则代表是 docker 官方发布的镜像, 也通过右上角是否标识`OFFICIAL IMAGE`来区分. 找到对应的镜像查看明细信息,选择`tags`
-![image.png](https://cdn.nlark.com/yuque/0/2020/png/178066/1607960321543-e1a7170c-c8fa-4f7c-aa2a-fa359dfb4367.png#align=left&display=inline&height=1243&margin=%5Bobject%20Object%5D&name=image.png&originHeight=1243&originWidth=1256&size=148398&status=done&style=none&width=1256)
+
+![image-20210203171500707](docker基础/image-20210203171500707.png)
 如图红框标识的为 tag 名称, 用来区分版本号
 
 ## 下载
@@ -218,7 +222,7 @@ exit
  yuyu@localhost  ~ 
 ```
 
-![image.png](https://cdn.nlark.com/yuque/0/2020/png/178066/1608001109589-97d8a84d-1dc2-4d45-878e-cac8088113b3.png#align=left&display=inline&height=135&margin=%5Bobject%20Object%5D&name=image.png&originHeight=270&originWidth=978&size=12975&status=done&style=stroke&width=489)
+![image-20210203171535608](docker基础/image-20210203171535608.png)
 
 ## 删除容器及镜像
 

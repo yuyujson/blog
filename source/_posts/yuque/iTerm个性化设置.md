@@ -10,14 +10,17 @@ tags: []
 
 # 花里胡哨
 
-![image.png](https://cdn.nlark.com/yuque/0/2020/png/178066/1607085609441-b9f02856-e248-4199-9c20-75617fca0bce.png#align=left&display=inline&height=1060&margin=%5Bobject%20Object%5D&name=image.png&originHeight=1060&originWidth=2450&size=403704&status=done&style=none&width=2450)
+![image-20210203170641508](iTerm个性化设置/image-20210203170641508.png)
 
 <!--more-->
 
 # 终端模拟器
 
 选用 [solarized](http://ethanschoonover.com/solarized)，下载解压，然后打开 iTerm2 下的偏好设置 preference ，点开 profiles 下的 colors 选项，点击右下角的 Color Presets 选项，选择 import ，导入解压到的 solarized 文件下的 Solarized Dark.itermcolors
-![image.png](https://cdn.nlark.com/yuque/0/2020/png/178066/1607085895455-58fd7948-4c8a-4ceb-a207-ef550aeb57cf.png#align=left&display=inline&height=1264&margin=%5Bobject%20Object%5D&name=image.png&originHeight=1264&originWidth=1850&size=860026&status=done&style=none&width=1850)
+
+![image-20210203170714227](iTerm个性化设置/image-20210203170714227.png)
+
+
 
 # 主题
 
@@ -91,7 +94,8 @@ cd fonts
 ```
 
 然后到 iterm2 配置，设置字体为`Roboto Mono for Powerline`：
-![image.png](https://cdn.nlark.com/yuque/0/2020/png/178066/1607086300308-21f445a7-6aa0-463d-b84c-4ea3bfadc681.png#align=left&display=inline&height=958&margin=%5Bobject%20Object%5D&name=image.png&originHeight=958&originWidth=1886&size=513302&status=done&style=none&width=1886)
+
+![image-20210203170754100](iTerm个性化设置/image-20210203170754100.png)
 
 # 自动提示与命令补全
 
