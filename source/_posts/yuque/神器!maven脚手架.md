@@ -1,8 +1,9 @@
 ---
-title: 神器:maven脚手架
+title: '神器:maven脚手架'
 urlname: up8qfd
-date: 2020-11-30 20:28:00 +0800
-categories: [util]
+date: '2020-11-30 20:28:00 +0800'
+categories:
+  - util
 permalink: maven-archetype-plugin
 tags: []
 ---

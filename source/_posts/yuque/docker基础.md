@@ -1,9 +1,11 @@
 ---
 title: docker基础
 urlname: edgc0r
-date: 2020-12-12 10:55:59 +0800
+date: '2020-12-12 10:55:59 +0800'
+categories:
+  - docker
+permalink: docker1
 tags: []
-categories: []
 ---
 
 # 基本概念

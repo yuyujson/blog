@@ -1,9 +1,11 @@
 ---
 title: maven专场
 urlname: ocowab
-date: 2020-12-10 20:18:31 +0800
+date: '2020-12-10 20:18:31 +0800'
+categories:
+  - util
+permalink: maven-path
 tags: []
-categories: []
 ---
 
 # 依赖-dependency

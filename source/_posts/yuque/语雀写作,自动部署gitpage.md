@@ -1,8 +1,9 @@
 ---
-title: 语雀写作,自动部署gitpage
+title: '语雀写作,自动部署gitpage'
 urlname: oft1np
-date: 2020-12-02 17:58:30 +0800
-categories: [util]
+date: '2020-12-02 17:58:30 +0800'
+categories:
+  - util
 permalink: yuque-hexo
 tags: []
 ---

@@ -1,8 +1,9 @@
 ---
 title: iTerm个性化设置
 urlname: dd2szg
-date: 2020-12-04 20:33:34 +0800
-categories: [util]
+date: '2020-12-04 20:33:34 +0800'
+categories:
+  - util
 permalink: iterm-setting
 tags: []
 ---
